@@ -2,6 +2,7 @@
 
 Here is my solution to the [Azure Resume Challenge](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-in-azure)
 
+Here is the diagram for this challenge
 
 ![Diagram](img/diagram.png)
 
@@ -22,7 +23,7 @@ Here is my solution to the [Azure Resume Challenge](https://acloudguru.com/blog/
 
 The front-end is a static site with HTML, CSS, and JavaScript. It's static and has a visitor counter. The visitor counter data fetched via an API call to an Azure Function.
 
-- I am a terrible designer, I used this [template](https://www.styleshout.com/free-templates/ceevee/) to create my site. 
+- I am not a website designer  so I used this [template](https://www.styleshout.com/free-templates/ceevee/) to create my site. 
 - I'm no JavaScript dev, but this [article](https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data) explains well and in a simple way how to use it to make an API call.
 - [Azure storage explorer is a handy tool to use when working with Storage Accounts](https://azure.microsoft.com/en-us/features/storage-explorer/)
 - This is how you can [deploy static site to blob storage.](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-host)
