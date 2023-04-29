@@ -6,6 +6,11 @@ Here is the diagram for this challenge
 
 ![Diagram](img/diagram.png)
 
+## Blog
+
+Here is my blog post about the challenge and what to do after:
+https://medium.com/@mojmdevo/are-you-struggling-to-stand-out-from-the-crowd-getting-into-it-b3d50b1262b1
+
 ## Prerequisites
 
 - [GitHub account](https://github.com/join)
